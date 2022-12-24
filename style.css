@@ -66,6 +66,7 @@ content:'(';
 }
 .checkbox:checked ~ .check {
  text-decoration: line-through;
+ color: #9695AB;
 }
 
 
@@ -82,14 +83,15 @@ content:'(';
     flex-direction: row;
     align-items: center;
    background-color:  #625E77;
-   color: white;
+   color: #9695AB;
 }
+
 .div-third:hover {
     display: flex;
     flex-direction: row;
     align-items: center;
    background-color:  #625E77;
-   color: white;
+   color: #9695AB;
 
 }
 .div-fifth:hover {
@@ -97,7 +99,7 @@ content:'(';
     flex-direction: row;
     align-items: center;
     background-color:  #625E77;
-    color: white;
+    color: #9695AB;
 }
 
 .div-second, .div-fourth, .div-sixth {
@@ -105,7 +107,7 @@ content:'(';
     flex-direction: row;
     align-items: center;
     background-color: #7A7593;
-    color:  #9B96AC;
+    color:  white;
 }
 
 .div-second:hover {
